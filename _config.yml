@@ -1,0 +1,28 @@
+name: Plantoid
+favicon: null
+layout_spectrum: 0.8353008253034204
+typography_spectrum: 0.41525825927965343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.23572077904827893
+  lightness: 0.10570069891400635
+  saturation: 0.7931522985454649
+  rhythmicContrast: 0.5570312472991645
+purpose: []
